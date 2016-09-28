@@ -1,0 +1,4 @@
+phrase#embedding	jiawei_han#jialu	kdd	p1
+clustering#embedding	jiawei_han#eric	kdd	p2
+phrase#eric	fangbo#eric	kdd	p3	1
+phrase#eric		kdd	p3
